@@ -1,0 +1,15 @@
+label {
+    font-size: 15px;
+}
+
+.login_wrap {
+    width: 70%;
+    margin: 50px auto;
+}
+
+.register_wrap{
+    margin: 50px;
+}
+.bw_td{width: 250px;}
+.admin_edit_wrapper{margin-top: 50px;}
+.srch_form{margin-top: 24px;}
